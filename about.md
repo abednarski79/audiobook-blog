@@ -13,4 +13,6 @@ AubioBook done simple!
 
 ### Contact me
 
-[email@domain.com](mailto:info@appbucket.eu)
+[info@appbucket.eu](mailto:info@appbucket.eu?subject=AUDIO_BOOK question)
+
+

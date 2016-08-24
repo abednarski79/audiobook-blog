@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+AubioBook done simple!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+[Super easy online audio book.](http://audiobook.appbucket.eu)
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:info@appbucket.eu)

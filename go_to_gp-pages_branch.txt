@@ -1,0 +1,3 @@
+To edit blog page go to:
+
+https://github.com/abednarski79/audioguide-blog/tree/gh-pages
